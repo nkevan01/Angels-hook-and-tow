@@ -1,14 +1,84 @@
+
 .main{
     height:100px;
-    background-color: aquamarine;
+    background-color:aliceblue;
     padding-top:25px;
-}   
+} 
+.navbar-brand{
+    padding-left:20px;
+    font-size:30px;
+    display: inline-block;
+    padding-top: 10px;
+    
+
+}
+.navbar-div{
+    width:200px;
+    
+    display:inline-block;
+    margin-left:85%;
+}
+.navbar-nav{
+    list-style-type:none;
+    display:
+
+}
+a {
+    text-decoration: none;
+    color:black;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.nav-item1{
+    
+    display:inline;
+    margin-left: 0;
+    padding-right: 15px;
+}
+.nav-item2{
+    
+    display:inline;
+}
+.nav-item3{
+    
+    display:inline;
+    
+}
+
+
+
+
+
+
+
+
+
 .main h1{
     text-align:center;
-    color:white;
-    text-shadow:
-		-1px -1px 0 #000,
-		1px -1px 0 #000,
-		-1px 1px 0 #000,
-		1px 1px 0 #000;
+    color:black;
+}
+img{
+    height:90vh;
+    width:80%;
+    padding-left:10%;
+    padding-right:10%;
+}
+.nav-link{
+    
+    
+}
+.h3-1{
+    text-align:center;
+    padding-top: 40px;
+    font-size:40px;
+}
+.para-1{
+    text-align:center;
+    padding-left:10%;
+    padding-right:10%;
+    height:400px;
+    width:80%;
+    padding-top:100px;
+    line-height:200%;
+    font-size:24px;
 }
